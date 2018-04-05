@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522955121 source:c:\users\user\desktop\programy\matematyka\funkcje.cpp
+	<cmath>
+
+1522955121 source:c:\users\user\desktop\programy\matematyka\main.cpp
+	<iostream>
+	"funkcje.h"
+	<cmath>
+
+1522954932 c:\users\user\desktop\programy\matematyka\funkcje.h
+
