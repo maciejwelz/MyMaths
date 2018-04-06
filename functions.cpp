@@ -1,11 +1,11 @@
 #include <cmath>
 
-int AreaOfTriangle(double a, double h)
+double AreaOfTriangle(double a, double h)
 {
     return (a*h/2);
 }
 
-int AreaOfTrapezium(double a, double b, double h)
+double AreaOfTrapezium(double a, double b, double h)
 {
     return((a+b)*h/2);
 }
@@ -17,7 +17,7 @@ int SumOfAngles(int a)
 }
 
 
-int hypotenuse(double a, double b)
+double hypotenuse(double a, double b)
 {
     return(sqrt(a*a+b*b));
 }
